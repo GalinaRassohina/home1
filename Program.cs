@@ -1,9 +1,9 @@
 ﻿// Напишите программу, которая принимает на вход трёхзначное число 
 //и на выходе показывает вторую цифру этого числа.456 -> 5 782 -> 8
 //918 -> 1
-int n = 456 ;
+int n = 918 ;
 int b;
 b = (n / 10) % 10;
 
-System.Console.WriteLine ("b");
-Console.WriteLine(b);
+System.Console.Write ("b=t");
+Console.Write(b);
